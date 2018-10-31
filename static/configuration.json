@@ -8,7 +8,7 @@
     "backgroundColorLeft": "#2690F9",
     "backgroundColorRight": "#FC2D2D",
     "audioUrl": "http://fs.open.kugou.com/1d2e047da1a910ec1a844c3b0da0b7ae/5bd9b710/G001/M0B/12/19/QQ0DAFS43jOATIosADaWAFwMkd8070.mp3",
-    "mini": false,
+    "mini": true,
     "webSites":[
     ]
 }
