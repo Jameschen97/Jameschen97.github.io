@@ -16,7 +16,7 @@
 
 
 
-#### 获取Token
+#### 获取 Token
 
 在 ```github > settings > Developer settings > Personal access tokens```  
 
